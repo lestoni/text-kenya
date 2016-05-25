@@ -1,0 +1,27 @@
+{
+  "name": "text-kenya",
+  "version": "1.0.0",
+  "description": "Client Wrapper For Text Kenya Web Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lestoni/node-text-kenya.git"
+  },
+  "keywords": [
+    "sms",
+    "text-kenya"
+  ],
+  "author": "Tony Mutai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lestoni/node-text-kenya/issues"
+  },
+  "homepage": "https://github.com/lestoni/node-text-kenya#readme",
+  "dependencies": {
+    "merge": "^1.2.0",
+    "request": "^2.72.0"
+  }
+}
