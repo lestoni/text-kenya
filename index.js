@@ -4,7 +4,7 @@
 var request   = require('request');
 var merge     = require('merge');
 
-var WEB_SERVICE_URL = 'http://textkenya.com/text/index.php';
+var WEB_SERVICE_URL = 'http://infopi.io/text/index.php';
 
 /**
  * Send SMS
