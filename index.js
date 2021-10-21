@@ -1,10 +1,10 @@
 /**
  * Load Module Dependencies
  */
-var request   = require('request');
-var merge     = require('merge');
+const request   = require('request');
+const {merge}     = require('merge');
 
-var WEB_SERVICE_URL = 'http://infopi.io/text/index.php';
+const WEB_SERVICE_URL = 'http://infopi.io/text/index.php';
 
 /**
  * Send SMS
